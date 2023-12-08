@@ -20,8 +20,8 @@ Here are my GitHub stats at a glance:
 
 Explore some of my latest projects:
 
-- [Project 1](Link to Project 1)
-- [Project 2](Link to Project 2)
-- [Project 3](Link to Project 3)
+- [Biton](https://github.com/Atlasoties/Atlasoties/biton.git)
+- [Dama]((https://github.com/Atlasoties/Atlasoties/dama.git))
+- [Babylon](https://github.com/Atlasoties/Atlasoties/babylon.git)
 
 Feel free to reach out if you have any questions or collaboration ideas! Let's build something amazing together. 🚀
