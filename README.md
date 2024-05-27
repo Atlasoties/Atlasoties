@@ -2,7 +2,7 @@
 
 Hey there! I'm Kasegn, a passionate developer and researcher with a love for creating and sharing open-source projects. Explore some of my work below:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Atlasoties&repo=Biton)](https://github.com/Atlasoties/biton)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Atlasoties&repo=Art)](https://github.com/Atlasoties/art)
 
 ## GitHub Streak
 
